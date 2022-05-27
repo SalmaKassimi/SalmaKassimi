@@ -50,7 +50,7 @@ Skills: PYTHON / C++ / REACT/ HTML / CSS
 
 
 
-[<img src='https://cdn3.iconfinder.com/data/icons/inficons/512/github.png' alt='github' height='40'>](https://github.com/SalmaKassimi) [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/salmakassimi/) [<img src='https://external-preview.redd.it/v06tShlEdDTKwq2Yx9OR0HbQDEToxIeEFD9rrMBdCDM.jpg?auto=webp&s=efdf1c214a778a127be2927d28ec70ac4683853f' alt='repl-dot-it' height='40'>]
+[<img src='https://cdn3.iconfinder.com/data/icons/inficons/512/github.png' alt='github' height='40'>](https://github.com/SalmaKassimi) [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/salmakassimi/) 
 
 
 
