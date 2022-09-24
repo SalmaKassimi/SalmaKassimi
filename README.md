@@ -22,8 +22,6 @@ My name is Salma Kassimi.
 
 
 
-**⚠️I am currently looking for a summer internship⚠️**
-
 
 
 **In one of the following subjects AI & Machine Learning | Data Analysis | Data Engineering | Industrial Engineering**
@@ -45,7 +43,7 @@ You can visit my socials to see other projects.
 
 
 
-Skills: PYTHON / C++ / REACT/ HTML / CSS
+Skills: PYTHON / C++ / REACT/ VUE/ HTML / CSS
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/salmakassimi/">@Linkedin</a>
 
 
